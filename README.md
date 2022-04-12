@@ -1,4 +1,4 @@
-# Emotion_Detection
+# Text-Based-Emotion-detection-NLP
 Sentiment Analysis project done in CSE598:Deep Learning Course
 DL_Final_Project.ipynb - This file consists of the model trained on BERT Encoder and BERT Sequential Classifier
 
